@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "A1uozEg6FEs=",
+  "success": true,
+  "projectFilePath": "/home/keoni/kuromibackend/PodFeatured.GameServer/PodFeatured.GameServer.csproj",
+  "expectedPackageFiles": [
+    "/home/keoni/.nuget/packages/microsoft.netcore.app.runtime.linux-x64/8.0.29/microsoft.netcore.app.runtime.linux-x64.8.0.29.nupkg.sha512",
+    "/home/keoni/.nuget/packages/microsoft.aspnetcore.app.runtime.linux-x64/8.0.29/microsoft.aspnetcore.app.runtime.linux-x64.8.0.29.nupkg.sha512"
+  ],
+  "logs": []
+}
